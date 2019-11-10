@@ -1,0 +1,1 @@
+# Encryptfs-mount-script
