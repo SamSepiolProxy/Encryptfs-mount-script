@@ -1,2 +1,2 @@
-# Ecryptfs-mount-script
+# eCryptfs-mount-script
 Bash script to mount eCryptfs folder
